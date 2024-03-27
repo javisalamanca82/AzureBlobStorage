@@ -1,0 +1,32 @@
+{
+    "id": "1dd420ec-d975-46e1-aa40-2d751039d48e",
+    "name": "Azure Blob Storage",
+    "publisher": "javi.salamanca",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "This app uploads files to S3 Bucket.",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "application": "22.4.59114.59535",
+    "platform": "22.0.59520.0",
+    "idRanges": [
+      {
+        "from": 50000,
+        "to": 50110
+      }
+    ],
+    "resourceExposurePolicy": {
+      "allowDebugging": true,
+      "allowDownloadingSource": true,
+      "includeSourceInSymbolFile": true
+    },
+    "runtime": "12.0",
+    "features": [
+      "NoImplicitWith"
+    ]
+}
